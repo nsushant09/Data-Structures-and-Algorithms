@@ -17,10 +17,10 @@ public class SelectionSort {
         }
     }
 
-    static void swap(int[] array, int last, int maxIndex) {
-        int temp = array[last];
-        array[last] = array[maxIndex];
-        array[maxIndex] = temp;
+    static void swap(int[] array, int first, int second) {
+        int temp = array[first];
+        array[first] = array[second];
+        array[second] = temp;
     }
 
     static int getMaxIndex(int[] arr, int start, int end) {
