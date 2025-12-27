@@ -1,0 +1,11 @@
+package Kushwaha.OOP.OOP5.Interfaces;
+
+//Multiple Inheritance is not supported in java.
+//We use java interfaces to resolve
+//Interfaces basically contains abstract functions.
+//the variables are static and final by default in intefaces.(cannot be changed)
+//Interfaces objects cannot be created.
+//use implements to implements unlike extends in classes
+//you can implements multiple intefaces.
+
+

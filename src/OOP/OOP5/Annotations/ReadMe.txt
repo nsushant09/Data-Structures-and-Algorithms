@@ -1,0 +1,1 @@
+//Annotations are interfaces itself.
